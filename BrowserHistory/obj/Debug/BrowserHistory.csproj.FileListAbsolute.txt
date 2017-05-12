@@ -1,0 +1,14 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\BrowserHistory\BrowserHistory\bin\Debug\BrowserHistory.dll.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\BrowserHistory\BrowserHistory\bin\Debug\BrowserHistory.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\BrowserHistory\BrowserHistory\bin\Debug\BrowserHistory.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\BrowserHistory\BrowserHistory\bin\Debug\EntityFramework.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\BrowserHistory\BrowserHistory\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\BrowserHistory\BrowserHistory\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\BrowserHistory\BrowserHistory\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\BrowserHistory\BrowserHistory\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\BrowserHistory\BrowserHistory\bin\Debug\EntityFramework.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\BrowserHistory\BrowserHistory\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\BrowserHistory\BrowserHistory\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\BrowserHistory\BrowserHistory\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\BrowserHistory\BrowserHistory\obj\Debug\BrowserHistory.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\BrowserHistory\BrowserHistory\obj\Debug\BrowserHistory.pdb
